@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloasdata
 - 👀 I’m interested in programming and solving problems.
-- 🌱 I’m currently learning REST, GraphQL, Flutter with Dart
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on new ideas.
 - 📫 seimen@cloasdata.de
 
 <!---
