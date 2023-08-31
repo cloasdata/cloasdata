@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cloasdata
+- 👋 Hi, I’m Simone.
 - 👀 I’m interested in programming and solving problems.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently working on a EOS simulator.
 - 💞️ I’m looking to collaborate on new ideas.
 - 📫 seimen@cloasdata.de
 
