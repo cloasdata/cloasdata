@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simone.
+- 👋 Hi, I’m Simon.
 - 👀 I’m interested in programming and solving problems.
 - 🌱 I’m currently working on a EOS simulator.
 - 💞️ I’m looking to collaborate on new ideas.
